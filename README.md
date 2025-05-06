@@ -1,4 +1,9 @@
 ## Hi there 👋
+Hi, I'm Talia — a CS student passionate about Python, Data Science, and building scalable Data Engineering solutions.
+
+- 🔭 Currently building a [Books ETL Pipeline](https://github.com/KTalia/Books_ETL_Pipeline) that scrapes book data, stores it in PostgreSQL, and exports it to CSV for analysis.
+
+
 
 <!--
 **KTalia/KTalia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
